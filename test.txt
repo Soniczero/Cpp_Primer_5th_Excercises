@@ -1,4 +1,4 @@
 Random file for branch test_1
 随便建一个文件
 
-add some words for branch test_1_2. // Conflict please.
+add some words for branch test_1_1 and test_1_2. // Conflict solved.
